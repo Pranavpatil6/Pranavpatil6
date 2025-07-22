@@ -6,6 +6,8 @@ I'm a passionate Backend Developer Intern focused on building fast, efficient, a
 
 Languages: Go, Rust, JavaScript, Python
 
+Frontend: Html , CSS , TailWind , Bootstrap
+
 Backend: Go Fiber, GORM, REST APIs
 
 Database: SQLite, PostgreSQL
