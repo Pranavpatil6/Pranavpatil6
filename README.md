@@ -2,17 +2,15 @@
 
 I'm a passionate Backend Developer Intern focused on building fast, efficient, and scalable APIs using Go (Golang), Rust, and PostgreSQL. Currently exploring system-level performance and developer-friendly backend architecture.
 
-🚀 Skills
 
-Languages: Go, Rust, JavaScript, Python
-
-Frontend: Html , CSS , TailWind , Bootstrap
-
-Backend: Go Fiber, GORM, REST APIs
-
-Database: SQLite, PostgreSQL
-### Skills:
+### 🚀 Skills:
 [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,nodejs,expressjs,golang,rust,c,python,postman,postgres,mysql)](https://skillicons.dev)
+
+
+### Let's Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patilpranav06)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:pranavpatil0610@gmail.com)
+
 
 
 📫 Email : pranavpatil0610@gmail.com
