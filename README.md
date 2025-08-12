@@ -12,7 +12,7 @@ Backend: Go Fiber, GORM, REST APIs
 
 Database: SQLite, PostgreSQL
 ### Skills:
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,nodejs,expressjs,golang,rust,c,python,postman,postgres,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,nodejs,expressjs,golang,rust,c,python,postman,postgres,mysql)](https://skillicons.dev)
 
 
 📫 Email : pranavpatil0610@gmail.com
