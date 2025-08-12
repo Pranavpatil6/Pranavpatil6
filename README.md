@@ -11,6 +11,9 @@ Frontend: Html , CSS , TailWind , Bootstrap
 Backend: Go Fiber, GORM, REST APIs
 
 Database: SQLite, PostgreSQL
+### Skills:
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,c,cpp,python,wordpress,figma,postman,linux,arduino,java,mongodb,mysql,androidstudio,react,nodejs,tailwind,ts,flutter,swift,kotlin,angular)](https://skillicons.dev)
+
 
 📫 Email : pranavpatil0610@gmail.com
 
