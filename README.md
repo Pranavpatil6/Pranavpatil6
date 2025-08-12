@@ -4,7 +4,7 @@ I'm a passionate Backend Developer Intern focused on building fast, efficient, a
 
 
 ### 🚀 Skills:
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,nodejs,expressjs,golang,rust,c,python,postman,postgres,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,nodejs,expressjs,golang,rust,c,python,postman,postgres,mysql,docker)](https://skillicons.dev)
 
 
 ### Let's Connect
@@ -12,8 +12,6 @@ I'm a passionate Backend Developer Intern focused on building fast, efficient, a
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:pranavpatil0610@gmail.com)
 
 
-
-📫 Email : pranavpatil0610@gmail.com
 
 
 <!--
